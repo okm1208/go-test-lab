@@ -1,0 +1,4 @@
+bin/
+*.sum
+*.log
+.idea
